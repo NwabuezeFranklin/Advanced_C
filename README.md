@@ -1,6 +1,6 @@
-## This contains some tasks done outside of ALX scheme and some real life projects in C; 
-# some tasks within ALX might include, Linked_Lists, Bit_Manipulation Shell< but all are more Advanced than the normal ALX tasks.
+# This contains some tasks done outside of ALX scheme and some real life projects in C; 
+### Some tasks within ALX might include, Linked_Lists, Bit_Manipulation shell< but all are more advanced than the normal ALX tasks.
 
 ### Today I graduated to ALX 2nd Phase.
 
- ![meme][https://i.imgflip.com/68y3zx.jpg]
+![meme][https://pythondex.com/wp-content/uploads/2022/02/python-meme-8-1024x1024.webp?ezimgfmt=rs:352x352/rscb1/ng:webp/ngcb1]
