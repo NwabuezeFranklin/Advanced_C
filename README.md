@@ -3,4 +3,4 @@
 
 ### Today I graduated to ALX 2nd Phase.
 
-![meme][https://pythondex.com/wp-content/uploads/2022/02/python-meme-8-1024x1024.webp?ezimgfmt=rs:352x352/rscb1/ng:webp/ngcb1]
+![meme](https://pythondex.com/wp-content/uploads/2022/02/python-meme-8-1024x1024.webp?ezimgfmt=rs:352x352/rscb1/ng:webp/ngcb1)
