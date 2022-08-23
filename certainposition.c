@@ -16,7 +16,7 @@ i* add(i* head, int m)
     i *ptr = malloc(sizeof(i));
     ptr -> data = m;
     ptr -> link = NULL;
-    while(d->link != NULL )
+    while(d->link != NULL)
     {
         d = d->link;
     }
